@@ -1,0 +1,9 @@
+git status
+
+git remote -v
+
+git remote add origin https://github.com/tstech3011/cloudinary-photos-app
+
+git add --all
+
+
